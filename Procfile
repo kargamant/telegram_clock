@@ -1,1 +1,1 @@
-app: python main.py
+avatar: python main.py
