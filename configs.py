@@ -1,3 +1,3 @@
-api_id = 1015768
-api_hash = 'e3d1d118fdc4c4cf4f10cbb292c10ee0'
+api_id = #your api id
+api_hash = #your api hash
 session_name = 'static/session'
